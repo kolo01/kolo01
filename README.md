@@ -60,4 +60,3 @@ A web and mobile developer with more than 3 years, I'm passionate about creating
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=kolo01)](https://github.com/kolo01/github-readme-profile)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kolo01&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kolo01&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kolo01&type=top-repos)
